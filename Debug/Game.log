@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\CGlab\source\repos\Game\소스.cpp(117,12): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+C:\Users\CGlab\source\repos\Game\소스.cpp(117,9): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+  Game.vcxproj -> C:\Users\CGlab\source\repos\Game\Debug\Game.exe
